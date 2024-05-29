@@ -6,9 +6,6 @@ Project involves identifying factors or charecterstics of a risky borrowers. Del
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-
 
 ## General Information
 **Problem Statement**
@@ -33,13 +30,13 @@ These variables temperature, working day, wind speed, year, day of the week, wea
 
 
 ## Technologies Used
-Python: version 3.x (e.g., Python 3.8)
-numpy: version 1.21.5
-pandas: version 1.3.5
-seaborn: version 0.11.2
-matplotlib: version 3.5.1
-scikit-learn (sklearn): version 0.24.2
-statsmodels: version 0.13.2
+* Python: version 3.x (e.g., Python 3.8)
+* numpy: version 1.21.5
+* pandas: version 1.3.5
+* seaborn: version 0.11.2
+* matplotlib: version 3.5.1
+* scikit-learn (sklearn): version 0.24.2
+* statsmodels: version 0.13.2
 
 ## Contact
 Created by [@lalitha12-web] - feel free to contact me!
